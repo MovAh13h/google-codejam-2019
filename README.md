@@ -10,4 +10,4 @@
 
 #### Total points: 40
 
-### Qualified for Round 1A
+#### Qualified for Round 1A
